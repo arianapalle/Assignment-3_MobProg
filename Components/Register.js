@@ -15,7 +15,7 @@ const Register = ({ onSwitch }) => (
 
     <Button mode="contained" style={styles.button} onPress={() => {}}textColor="#FFF"> Sign Up </Button>
     <Button mode="text" onPress={onSwitch}textColor="#fff"> Already have an account?  Login </Button>
-    
+
   </View>
 );
 
